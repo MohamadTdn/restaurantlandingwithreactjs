@@ -1,7 +1,7 @@
 .About-section {
     display: flex;
     justify-content: space-between;
-    margin: 60px 0;
+    margin: 80px 0;
 }
 
 .About-section h1 {
@@ -12,7 +12,6 @@
 .About-section p {
     font-size: 20px;
     line-height: 50px;
-    width: 95%;
     padding: 20px;
 }
 

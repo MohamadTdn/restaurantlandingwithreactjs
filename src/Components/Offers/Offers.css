@@ -1,0 +1,18 @@
+.Offers {
+    text-align: center;
+}
+
+.Offers .Offers-title {
+    font-size: 70px;
+}
+
+.Offers .Offers-description {
+    font-size: 30px;
+    width: 70%;
+    margin: auto;
+}
+
+.Offers-container {
+    display: flex;
+    flex-wrap: wrap;
+}
