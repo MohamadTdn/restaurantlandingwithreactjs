@@ -1,0 +1,29 @@
+.Menu-item {
+    display: flex;
+    width: 50%;
+    margin: 60px 0;
+    padding: 30px 0 0 30px;
+}
+
+.Menu-item img {
+    width: 160px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.Menu-item-title {
+    font-size: 40px;
+}
+
+.Menu-item-description {
+    font-size: 20px;
+}
+
+.Menu-item-price {
+    font-size: 20px;
+    color: #ffff00;
+}
+
+.Menu-item-title  , .Menu-item-description , .Menu-item-price {
+    margin: 20px;
+}
