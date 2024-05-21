@@ -1,0 +1,36 @@
+
+.News-item-image {
+    width: 500px;
+}
+
+.News-items {
+    margin: 60px 0;
+    width: 500px;
+    margin: 40px;
+}
+
+.News-title {
+    font-size: 40px;
+    padding: 10px 0;
+}
+
+.News-item-desc {
+    font-size: 20px;
+    padding: 10px 0;
+    line-height: 40px;
+}
+
+.Read-more-btn {
+    font-size: 20px;
+    padding: 20px;
+    border: none;
+    background-color: #ffff00;
+    color: #000000;
+    margin: 30px 0;
+}
+
+.Read-more-btn:hover {
+    background-color: #fff;
+    transition: 0.5s;
+    cursor: pointer;
+}

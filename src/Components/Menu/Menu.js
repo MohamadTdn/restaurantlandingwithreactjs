@@ -23,9 +23,9 @@ const Menu = () => {
         <h1 className='Menu-title'>Delicious Menu</h1>
         <p className='Menu-description'>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
         <div className='Buttoms'>
-            <button>Breakfast</button>
-            <button>Launch</button>
-            <button>Dinner</button>
+            <button className='Menu-btn' >Breakfast</button>
+            <button className='Menu-btn' >Launch</button>
+            <button className='Menu-btn' >Dinner</button>
         </div>
         <div className='Items'>
           {menuItems.map ((item) => (
@@ -37,3 +37,4 @@ const Menu = () => {
 }
 
 export default Menu
+

@@ -12,7 +12,7 @@
     margin: auto;
 }
 
-button {
+.Menu-btn {
     font-size: 30px;
     margin: 30px 20px;
     padding: 15px 40px;
@@ -20,7 +20,7 @@ button {
     background-color: transparent;
 }
 
-button:hover {
+.Menu-btn:hover {
     cursor: pointer;
 }
 

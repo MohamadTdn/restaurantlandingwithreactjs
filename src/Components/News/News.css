@@ -1,0 +1,16 @@
+.News {
+    text-align: center;
+}
+
+.title {
+    font-size: 70px;
+}
+
+.desc {
+    font-size: 30px;
+}
+
+.News-items-container {
+    display: flex;
+    flex-wrap: wrap;
+}
