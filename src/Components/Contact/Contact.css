@@ -5,3 +5,49 @@
 .Contact-title {
     font-size: 70px;
 }
+
+.Contact-desc {
+    font-size: 30px;
+}
+
+.Contact-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Contact-name , .Contact-email {
+    padding: 15px;
+    margin: 20px;
+    width: 700px;
+    font-size: 20px;
+    background-color: #dddada;
+    border: none;
+    outline: none;
+}
+
+.Contact-textarea {
+    padding: 15px;
+    margin: 20px 0;
+    width: 700px;
+    height: 400px;
+    font-size: 20px;
+    background-color: #dddada;
+    border: none;
+    outline: none;
+}
+
+.Contact-Submit-btn {
+    padding: 25px 50px;
+    background-color: #ffff00;
+    border: none;
+}
+
+.Infos img {
+    width: 600px;
+    margin: 20px 0;
+}
+
+.Infos h5 , p{
+    font-size: 20px;
+    padding: 5px;
+}
