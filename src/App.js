@@ -5,6 +5,7 @@ import Offers from './Components/Offers/Offers'
 import Menu from './Components/Menu/Menu'
 import News from './Components/News/News'
 import Gallery from './Components/Gallery/Gallery'
+import Contact from './Components/Contact/Contact'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Menu></Menu>
       <News></News>
       <Gallery></Gallery>
+      <Contact></Contact>
     </div>
   );
 }
