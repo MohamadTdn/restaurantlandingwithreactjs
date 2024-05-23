@@ -1,10 +1,10 @@
 import React from 'react'
 import './Galleryitems.css'
 
-const Galleryitems = () => {
+const Galleryitems = ({imgSrc}) => {
   return (
     <>
-        <img src="assets/menu1.webp" className='Gallery-item-image' alt="" />
+        <img src={imgSrc} className='Gallery-item-image' alt="" />
     </>
   )
 }
