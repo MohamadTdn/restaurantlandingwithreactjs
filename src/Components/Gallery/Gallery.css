@@ -1,0 +1,16 @@
+.Gallery {
+    text-align: center;
+}
+
+.Gallery-title {
+    font-size: 70px;
+}
+
+.Gallery-desc {
+    font-size: 30px;
+}
+
+.Gallery-items {
+    display: flex;
+    flex-wrap: wrap;
+}
