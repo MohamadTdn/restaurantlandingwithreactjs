@@ -1,0 +1,42 @@
+.Footer {
+    background-color: #191919;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 40px 0 0 0;
+}
+
+.Footer * {
+    color: #fff;
+    padding: 10px;
+}
+
+.Footer .Footer-about-title {
+    font-size: 30px;
+    padding: 20px 0;
+}
+
+.Footer .Footer-about-desc {
+    font-size: 20px;
+    width: 600px;
+    line-height: 40px;
+}
+
+.Footer ul {
+    list-style-type: none;
+}
+
+.Footer ul li h5 {
+    font-weight: bold;
+    color: #6c6868;
+    font-size: 25px;
+}
+
+.Footer ul li a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.Footer ul li a:hover {
+    color: #ffff00;
+}

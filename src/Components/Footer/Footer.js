@@ -31,6 +31,9 @@ const Footer = () => {
             <li><a href="#">Brunchs</a></li>
             <li><a href="#">Dinner</a></li>
         </ul>
+        <div className='Socials'>
+            
+        </div>
     </div>
   )
 }

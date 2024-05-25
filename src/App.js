@@ -6,6 +6,7 @@ import Menu from './Components/Menu/Menu'
 import News from './Components/News/News'
 import Gallery from './Components/Gallery/Gallery'
 import Contact from './Components/Contact/Contact'
+import Footer from './Components/Footer/Footer'
 
 const App = () => {
   return (
