@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='Footer'>
         <div className='Footer-about'>
             <h5 className='Footer-about-title'>ABOUT US</h5>
-            <p className='Footer-about-desc'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, similique, delectus blanditiis odit expedita amet. Sed labore ipsum vel dolore, quis, culpa et magni autem sequi facere eos tenetur, ex?</p>
+            <p className='Footer-about-desc'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, similique, delectus blanditiis odit expedita amet. Sed labore ipsum vel dolore, quis, culpa et magni autem sequi facere eos tenetur, ex? </p>
         </div>
         <ul>
             <li><h5>THE RESTAURANT</h5></li>
@@ -31,9 +31,6 @@ const Footer = () => {
             <li><a href="#">Brunchs</a></li>
             <li><a href="#">Dinner</a></li>
         </ul>
-        <div className='Socials'>
-            
-        </div>
     </div>
   )
 }

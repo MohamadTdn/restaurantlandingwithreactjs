@@ -7,6 +7,7 @@ import News from './Components/News/News'
 import Gallery from './Components/Gallery/Gallery'
 import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
+import Copyright from './Components/Copyright/Copyright'
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Gallery></Gallery>
       <Contact></Contact>
       <Footer></Footer>
+      <Copyright></Copyright>
     </div>
   );
 }
